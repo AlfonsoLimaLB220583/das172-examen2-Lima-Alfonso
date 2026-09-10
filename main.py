@@ -46,6 +46,9 @@ def ejecutar_demostracion():
     if submatriz:
         for fila in submatriz:
             print("    ", fila)
+    print("\n==========================================")
+    print("      AUDITORÍA COMPLETADA EXITOSAMENTE   ")
+    print("==========================================")
 
 if __name__ == "__main__":
     ejecutar_demostracion()
